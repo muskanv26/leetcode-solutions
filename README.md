@@ -17,3 +17,4 @@ Language: Java
 |--------|------|---------|
 | Minimum Changes to Make Alternating Binary String | Strings | Java |
 | Check if Binary String Has at Most One Segment of Ones | Strings | Java |
+| Minimum Number of Flips to Make Binary String Alternating | Strings | Java |
