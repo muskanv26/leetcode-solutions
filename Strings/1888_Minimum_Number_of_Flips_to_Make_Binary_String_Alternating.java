@@ -1,3 +1,29 @@
+/*
+LeetCode 1888
+Minimum Number of Flips to Make the Binary String Alternating
+
+Problem:
+Given a binary string s, we can perform two operations:
+1. Remove the first character and append it to the end (rotation).
+2. Flip any character (0 -> 1 or 1 -> 0).
+
+Return the minimum number of flips required to make the string alternating.
+
+An alternating string is one where no two adjacent characters are equal.
+
+Approach:
+1. Double the string (s + s) to simulate all rotations.
+2. Create two alternating patterns:
+   - Start with '0' -> 010101...
+   - Start with '1' -> 101010...
+3. Use a sliding window of size n over the doubled string.
+4. Count mismatches with both patterns.
+5. Track the minimum flips required.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
 class Solution {
     public int minFlips(String s) {
         int n = s.length();
