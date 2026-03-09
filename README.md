@@ -19,5 +19,6 @@ Language: Java
 | 1784. Check if Binary String Has at Most One Segment of Ones | Strings | Java | [LeetCode](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/7630626/simple-string-traversal-detect-second-se-r6eh/) |
 | 1888. Minimum Number of Flips to Make Binary String Alternating | Strings | Java | [LeetCode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/solutions/7632967/sliding-window-string-rotation-s-s-java-5o9ig/) |
 | 1980. Find Unique Binary String | Strings | Java | [LeetCode](https://leetcode.com/problems/find-unique-binary-string/solutions/7635360/java-cantors-diagonal-trick-on-elegant-s-xt1c/) |
+| 3129. Find All Possible Stable Binary Arrays I | Dynamic Programming | Java | [LeetCode](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/solutions/7637538/java-dynamic-programming-easy-explanatio-0jiu/) |
 
 
