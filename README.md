@@ -20,5 +20,5 @@ Language: Java
 | 1888. Minimum Number of Flips to Make Binary String Alternating | Strings | Java | [LeetCode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/solutions/7632967/sliding-window-string-rotation-s-s-java-5o9ig/) |
 | 1980. Find Unique Binary String | Strings | Java | [LeetCode](https://leetcode.com/problems/find-unique-binary-string/solutions/7635360/java-cantors-diagonal-trick-on-elegant-s-xt1c/) |
 | 3129. Find All Possible Stable Binary Arrays I | Dynamic Programming | Java | [LeetCode](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/solutions/7637538/java-dynamic-programming-easy-explanatio-0jiu/) |
-
+| 3783. Mirror Distance of an Integer | Math | Java | [LeetCode](https://leetcode.com/problems/mirror-distance-of-an-integer/solutions/7975540/mirror-distance-of-an-integer-java-solut-6bnz/) |
 
