@@ -30,3 +30,8 @@ class Solution {
         return rev;
     }
 }
+
+// Pattern: Digit Manipulation
+// Similar Problems:
+// - Reverse Integer
+// - Palindrome Number
